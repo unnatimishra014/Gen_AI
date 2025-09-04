@@ -4,6 +4,7 @@ from pathlib import Path
 from agents import Document, build_system
 from gtts import gTTS
 import base64
+import os
 
 # ---- Page Config ----
 st.set_page_config(
@@ -36,8 +37,16 @@ with st.sidebar:
 BASE_DIR = Path(__file__).resolve().parent
 data_dir = BASE_DIR / "data"
 
-salary_docs = [Document("salary", (data_dir / "salary.txt").read_text(encoding="utf-8"))]
-insurance_docs = [Document("insurance", (data_dir / "insurance.txt").read_text(encoding="utf-8"))]
+def safe_read(path: Path, default: str) -> str:
+    """Read file safely, return default text if missing."""
+    try:
+        return path.read_text(encoding="utf-8")
+    except FileNotFoundError:
+        return default
+
+salary_docs = [Document("salary", safe_read(data_dir / "salary.txt", "Salary info unavailable."))]
+insurance_docs = [Document("insurance", safe_read(data_dir / "insurance.txt", "Insurance info unavailable."))]
+
 coordinator = build_system(salary_docs, insurance_docs)
 
 # ---- Session state ----
