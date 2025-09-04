@@ -33,7 +33,9 @@ with st.sidebar:
         st.rerun()
 
 # ---- Load docs & coordinator ----
-data_dir = Path("data")
+BASE_DIR = Path(__file__).resolve().parent
+data_dir = BASE_DIR / "data"
+
 salary_docs = [Document("salary", (data_dir / "salary.txt").read_text(encoding="utf-8"))]
 insurance_docs = [Document("insurance", (data_dir / "insurance.txt").read_text(encoding="utf-8"))]
 coordinator = build_system(salary_docs, insurance_docs)
