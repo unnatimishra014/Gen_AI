@@ -1,2 +1,2 @@
 
-https://unnatimishra-loan-calculator-app.streamlit.app/
+https://loan-calculator-unnati.streamlit.app/
