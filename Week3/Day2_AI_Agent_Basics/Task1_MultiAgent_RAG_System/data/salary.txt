@@ -1,0 +1,32 @@
+Salary Structure Guide
+
+Annual salary = monthly salary × 12.
+Gross salary = Base pay + allowances before deductions.
+Net salary (in-hand) = Gross salary − deductions.
+CTC (Cost to Company) = Fixed pay + employer contributions like PF, insurance.
+Common deductions = Tax, Provident Fund, Professional Tax, Insurance premium.
+HRA (House Rent Allowance) is given for accommodation.
+Basic salary is the fixed base component of pay.
+
+
+Base Salary:
+- Paid monthly.
+- Annual salary = monthly salary × 12.
+
+Allowances:
+- House Rent Allowance (HRA)
+- Conveyance
+- Special allowance
+
+Deductions:
+- Income tax (TDS)
+- Provident Fund (PF)
+- Professional tax (if applicable)
+
+Payslip Terms:
+- Gross salary: Base + allowances before deductions.
+- Net salary (in-hand): Gross - deductions.
+
+Calculations:
+- Annual CTC: Fixed pay + employer contributions (e.g., PF).
+- Take-home per month ≈ (Annual salary / 12) - monthly deductions.

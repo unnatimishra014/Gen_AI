@@ -1,0 +1,418 @@
+Chunk #,Content
+1,"Basics of Cloud Computing 
+Cloud Computing is a technology that allows you to store and access data and applications over the 
+internet instead of using your computer’s hard drive or a local server. 
+In cloud computing, you can store different types of data such as files, images, videos, and 
+documents on remote servers, and access them anytime from any device connected to the internet. 
+• Infrastructure: Cloud computing depends on remote network servers hosted on the Internet 
+to store, manage, and process data. 
+• On-Demand Access: Users can access cloud services and resources on demand, scaling up or 
+down without having to invest in physical hardware. 
+• Types of Services: Cloud computing offers various benefits such as cost saving, scalability, 
+reliability, and accessibility. It reduces capital expenditures, and improves efficiency. 
+ 
+Architecture Of Cloud Computing 
+Cloud computing architecture refers to the components and sub-components required for cloud"
+2,"Architecture Of Cloud Computing 
+Cloud computing architecture refers to the components and sub-components required for cloud 
+computing. These components typically refer to: 
+1. Front end ( Fat client, Thin client) 
+2. Back-end platforms ( Servers, Storage ) 
+3. Cloud-based delivery and a network ( Internet, Intranet, Intercloud )"
+3,"1. Front End ( User Interaction Enhancement ) 
+The User Interface of Cloud Computing consists of 2 sections of clients. The Thin clients are the ones 
+that use web browsers facilitating portable and lightweight accessibilities and others are known as 
+Fat Clients that use many functionalities for offering a strong user experience. 
+2. Back-end Platforms ( Cloud Computing Engine ) 
+The core of cloud computing is made at back-end platforms with several servers for storage and 
+processing computing. Management of Applications logic is managed through servers and effective 
+data handling is provided by storage. The combination of these platforms at the backend offers the 
+processing power, and capacity to manage and store data behind the cloud. 
+3. Cloud-Based Delivery and Network 
+On-demand access to the computer and resources is provided over the Internet, Intranet, and 
+Intercloud. The Internet comes with global accessibility, the Intranet helps in internal"
+4,"On-demand access to the computer and resources is provided over the Internet, Intranet, and 
+Intercloud. The Internet comes with global accessibility, the Intranet helps in internal 
+communications of the services within the organization and the Intercloud enables interoperability 
+across various cloud services. This dynamic network connectivity ensures an essential component of 
+cloud computing architecture on guaranteeing easy access and data transfer. 
+Types of Cloud Computing Services 
+The following are the types of Cloud Computing: 
+1. Infrastructure as a Service (IaaS) 
+2. Platform as a Service (PaaS) 
+3. Software as a Service (SaaS) 
+4. Function as as Service (FaaS)"
+5,"1. Infrastructure as a Service ( IaaS ) 
+Infrastructure as a Service (IaaS) is a type of cloud computing that gives people access to IT tools like 
+virtual computers, storage, and networks through the internet. You don’t need to buy or manage 
+physical hardware. Instead, you pay only for what you use. 
+Here are some key benefits of using IaaS: 
+• Flexibility and Control: IaaS comes up with providing virtualized computing resources such 
+as VMs, Storage, and networks facilitating users with control over the Operating system and 
+applications. 
+• Reducing Expenses of Hardware: IaaS provides business cost savings with the elimination of 
+physical infrastructure investments making it cost-effective. 
+• Scalability of Resources: The cloud provides in scaling of hardware resources up or down as 
+per demand facilitating optimal performance with cost efficiency. 
+2. Platform as a Service ( PaaS ) 
+Platform as a Service (PaaS) is a cloud computing model where a third-party provider offers the"
+6,"per demand facilitating optimal performance with cost efficiency. 
+2. Platform as a Service ( PaaS ) 
+Platform as a Service (PaaS) is a cloud computing model where a third-party provider offers the 
+software and hardware tools needed to develop, test, and run applications. This allows users to focus 
+on building their applications without worrying about managing servers or infrastructure. 
+For example, AWS Elastic Beanstalk is a PaaS offered by Amazon Web Services that helps developers 
+quickly deploy and manage applications while AWS takes care of the needed resources like servers, 
+load balancing, and scaling. 
+Here are some key benefits of using PaaS: 
+• Simplifying the Development: Platform as a Service offers application development by 
+keeping the underlying Infrastructure as an Abstraction. It helps the developers to 
+completely focus on application logic ( Code ) and background operations are completely 
+managed by the AWS platform."
+7,"completely focus on application logic ( Code ) and background operations are completely 
+managed by the AWS platform. 
+• Enhancing Efficiency and Productivity: PaaS lowers the Management of Infrastructure 
+complexity, speeding up the Execution time and bringing the updates quickly to market by 
+streamlining the development process. 
+• Automation of Scaling: Management of resource scaling, guaranteeing the program's 
+workload efficiency is ensured by PaaS. 
+3. Software as a Service (SaaS) 
+Software as a Service (SaaS) is a way of using software over the internet instead of installing it on 
+your computer. The software is hosted by a company, and you can use it just by logging in through a 
+web browser. You don’t need to worry about updates, maintenance, or storage the provider takes 
+care of all that. 
+A common example is Google Docs. You can write and share documents online without downloading 
+any software. 
+Here are some key benefits of using SaaS:"
+8,"• Collaboration And Accessibility: Software as a Service (SaaS) helps users to easily access 
+applications without having the requirement of local installations. It is fully managed by the 
+AWS Software working as a service over the internet encouraging effortless cooperation and 
+ease of access. 
+• Automation of Updates: SaaS providers manage the handling of software maintenance with 
+automatic latest updates ensuring users gain experience with the latest features and security 
+patches. 
+• Cost Efficiency: SaaS acts as a cost-effective solution by reducing the overhead of IT support 
+by eliminating the need for individual software licenses. 
+4. Function as a Service (FaaS) 
+Function as a service (FaaS) is a cloud-computing service that allows customers to run code in 
+response to events, without managing the complex infrastructure. You just write the code, upload it 
+and the cloud provider runs it only when it's needed. You pay only for the time your code runs."
+9,"response to events, without managing the complex infrastructure. You just write the code, upload it 
+and the cloud provider runs it only when it's needed. You pay only for the time your code runs. 
+For example, with AWS Lambda, you can write a function that resizes images whenever someone 
+uploads a photo to your website. You don’t need to keep a server running all the time AWS runs your 
+function only when a photo is uploaded. 
+Here are some key benefits of using SaaS: 
+• Event-Driven Execution: FaaS helps in the maintenance of servers and infrastructure making 
+users worry about it. FaaS facilitates the developers to run code as a response to the events. 
+• Cost Efficiency: FaaS facilitates cost efficiency by coming up with the principle ""Pay as per 
+you Run"" for the computing resources used. 
+• Scalability and Agility: Serverless Architectures scale effortlessly in handing the workloads 
+promoting agility in development and deployment. 
+Company Cloud Service Name Key Offerings"
+10,"• Scalability and Agility: Serverless Architectures scale effortlessly in handing the workloads 
+promoting agility in development and deployment. 
+Company Cloud Service Name Key Offerings 
+1. Amazon AWS (Amazon Web Services) Compute, Storage, AI/ML, Databases, Networking 
+2. Microsoft Azure Cloud computing, AI, Analytics, Hybrid Cloud 
+3. Google Google Cloud Platform (GCP) AI/ML, Big Data, Kubernetes, Cloud Storage 
+4. Alibaba Alibaba Cloud IaaS, AI, Big Data, Cloud Security, CDN 
+5. Oracle Oracle Cloud Enterprise Cloud, Databases, SaaS, PaaS"
+11,"Company Cloud Service Name Key Offerings 
+6. IBM IBM Cloud AI, Quantum Computing, Hybrid Cloud, Security 
+7. Salesforce Salesforce Cloud CRM, SaaS, AI, Analytics 
+8. Tencent Tencent Cloud AI, Gaming Cloud, IoT, Big Data 
+ 
+Amazon Web Services (AWS) - Free Tier Account Set up 
+ 
+Steps to Create an AWS Free Tier Account 
+Follow the below steps to create an AWS Free Tier Account: 
+Step 1: Visit the AWS Free Tier Sign-Up Page 
+To get started, go to the official AWS website. Click on ""Create Free Account"" button to begin the 
+sign-up process. 
+Step 2: Create an AWS Account 
+• Enter Your Email and Account Name: You’ll need to provide your email address and choose a 
+unique AWS account name. 
+• Verify Your Email: AWS will send a verification code to your email address. Enter this code on 
+the sign-up page to confirm your email. 
+• Click ""Verify Email Address"": After entering the code, click on ""Verify Email Address"" to 
+move to the next step. 
+Step 3: Set the Root User Password"
+12,"the sign-up page to confirm your email. 
+• Click ""Verify Email Address"": After entering the code, click on ""Verify Email Address"" to 
+move to the next step. 
+Step 3: Set the Root User Password 
+• Create a Password: Choose a strong password for your root user account. This is the account 
+with full access to all AWS resources. 
+• Confirm the Password: Re-enter the password to confirm. 
+• Click ""Continue (Step 1 of 5)"": Once you’ve set the password, click on ""Continue"" to 
+proceed."
+13,"Elastic Compute Cloud (EC2) 
+EC2 stands for Elastic Compute Cloud is a service from Amazon Web Services (AWS). EC2 is an on-
+demand computing service on the AWS cloud platform called instances. It lets you rent virtual 
+computers to run your applications. You pay only for what you use. 
+Amazon EC2 (Elastic Compute Cloud) Linux Instances 
+Step 1: First login into your AWS account. Once you are directed to the management console. From 
+the left click on ""Services"" and from the listed options click on EC2. 
+Step 2: Afterward, you will be redirected to the EC2 console. Here is the image attached to refer to 
+various features in EC2. 
+ 
+Working of AWS EC2 
+Instead of buying and managing your own servers, EC2 gives you a virtual machine, where you can 
+run websites, apps, or even big data tasks. 
+• Choose the memory, storage, and CPU you need, and stop the instance when done. 
+• EC2 offers secure, reliable, high-performance, and cost-effective infrastructure."
+14,"• Choose the memory, storage, and CPU you need, and stop the instance when done. 
+• EC2 offers secure, reliable, high-performance, and cost-effective infrastructure. 
+• Deploy applications without managing physical hardware. 
+• Secure your instance using VPC, Subnets, and Security Groups. 
+• Attach Auto Scaling to scale EC2 based on demand. 
+• Automatically scale up or down based on traffic. 
+The following figure shows the EC2-Instance which is deployed in VPC (Virtual Private Cloud)."
+15,"Features of AWS EC2 (Elastic Compute Cloud) 
+The following are the features of AWS EC2: 
+1. AWS EC2 Functionality 
+EC2 Offers a virtual computing platform where users can run operations and launch additional EC2 
+instances. It enhances security and allows full customization of the virtual environment at any time. 
+EC2 provides default AMI(Amazon Machine Image) with pre-configured settings for various operating 
+systems and resources. Users can also create custom AMIs with their preferred configurations and 
+save them for future use, avoiding the need to reconfigure each time. 
+2. AWS EC2 Operating Systems 
+Amazon EC2 includes a wide range of operating systems to choose from while selecting your AMI. 
+Not only are these selected options, but users are also even given the privilege to upload their own 
+operating systems and opt for that while selecting AMI during launching an EC2 instance. Currently,"
+16,"operating systems and opt for that while selecting AMI during launching an EC2 instance. Currently, 
+AWS has the following most preferred set of operating systems available on the EC2 console."
+17,"• Amazon Linux 
+• Windows Server 
+• Ubuntu Server 
+• SUSE Linux 
+• Red Hat Linux 
+3. AWS EC2 Software 
+Amazon is single-handedly ruling the cloud computing market, because of the variety of options 
+available on EC2 for its users. It allows its users to choose from various software present to run on 
+their EC2 machines. This whole service is allocated to AWS Marketplace on the AWS platform. 
+Numerous software like SAP , LAMP , Drupal, etc are available on AWS to use. 
+4. AWS EC2 Scalability and Reliability 
+EC2 provides us the facility to scale up or scale down as per the needs. All dynamic scenarios can be 
+easily tackled by EC2 with the help of this feature. And because of the flexibility of volumes and 
+snapshots, it is highly reliable for its users. Due to the scalable nature of the machine, many 
+organizations like Flipkart, and Amazon rely on these days whenever humongous traffic occurs on 
+their portals. 
+Amazon S3 
+What is Amazon S3?"
+18,"organizations like Flipkart, and Amazon rely on these days whenever humongous traffic occurs on 
+their portals. 
+Amazon S3 
+What is Amazon S3? 
+Amazon S3 is a Simple Storage Service in AWS that stores files of different types like Photos, Audio, 
+and Videos as Objects providing more scalability and security to. It allows the users to store and 
+retrieve any amount of data at any point in time from anywhere on the web. It facilitates features 
+such as extremely high availability, security, and simple connection to other AWS Services. 
+What is Amazon S3 Used for? 
+Amazon S3 is used for various purposes in the Cloud because of its robust features with scaling and 
+Securing of data. It helps people with all kinds of use cases from fields such as Mobile/Web 
+applications, Big data, Machine Learning and many more. The following are a few Wide Usage of 
+Amazon S3 service. 
+• Data Storage: Amazon s3 acts as the best option for scaling both small and large storage"
+19,"Amazon S3 service. 
+• Data Storage: Amazon s3 acts as the best option for scaling both small and large storage 
+applications. It helps in storing and retrieving the data-intensitive applications as per needs 
+in ideal time."
+20,"• Backup and Recovery: Many Organizations are using Amazon S3 to backup their critical data 
+and maintain the data durability and availability for recovery needs. 
+• Hosting Static Websites: Amazon S3 facilitates in storing HTML, CSS and other web content 
+from Users/developers allowing them for hosting Static Websites benefiting with low-latency 
+access and cost-effectiveness. To know more detailing refer this Article - How to host static 
+websites using Amazon S3 
+• Data Archiving: Amazon S3 Glacier service integration helps as a cost-effective solution for 
+long-term data storing which are less frequently accessed applications. 
+• Big Data Analytics: Amazon S3 is often considered as data lake because of its capacity to 
+store large amounts of both structured and unstructured data offering seamless integration 
+with other AWS Analytics and AWS Machine Learning Services. 
+What is an Amazon S3 bucket?"
+21,"store large amounts of both structured and unstructured data offering seamless integration 
+with other AWS Analytics and AWS Machine Learning Services. 
+What is an Amazon S3 bucket? 
+Amazon S3 bucket is a fundamental Storage Container feature in AWS S3 Service. It provides a secure 
+and scalable repository for storing of Objects such as Text data, Images, Audio and Video files over 
+AWS Cloud. Each S3 bucket name should be named globally unique and should be configured with 
+ACL (Access Control List). 
+How Does Amazon S3 works? 
+Amazon S3 works on organizing the data into unique S3 Buckets, customizing the buckets with 
+Acccess controls. It allows the users to store objects inside the S3 buckets with facilitating features 
+like versioning and lifecycle management of data storage with scaling. The following are a few main 
+features of Amazon s3: 
+1. Amazon S3 Buckets and Objects 
+Amazon S3 Bucket: Data, in S3, is stored in containers called buckets. Each bucket will have its own"
+22,"features of Amazon s3: 
+1. Amazon S3 Buckets and Objects 
+Amazon S3 Bucket: Data, in S3, is stored in containers called buckets. Each bucket will have its own 
+set of policies and configurations. This enables users to have more control over their data. Bucket 
+Names must be unique. Can be thought of as a parent folder of data. There is a limit of 100 buckets 
+per AWS account. But it can be increased if requested by AWS support. 
+Amazon S3 Objects: Fundamental entity type stored in AWS S3.You can store as many objects as you 
+want to store. The maximum size of an AWS S3 bucket is 5TB. It consists of the following: 
+• Key 
+• Version ID 
+• Value 
+• Metadata 
+• Subresources 
+• Access control information 
+• Tags 
+2. Amazon S3 Versioning and Access Control"
+23,"S3 Versioning: Versioning means always keeping a record of previously uploaded files in S3. Points to 
+Versioning are not enabled by default. Once enabled, it is enabled for all objects in a bucket. 
+Versioning keeps all the copies of your file, so, it adds cost for storing multiple copies of your data. 
+For example, 10 copies of a file of size 1GB will have you charged for using 10GBs for S3 space. 
+Versioning is helpful to prevent unintended overwrites and deletions. Objects with the same key can 
+be stored in a bucket if versioning is enabled (since they have a unique version ID). To know more 
+about versioning refer this article - Amazon S3 Versioning 
+Access control lists (ACLs): A document for verifying access to S3 buckets from outside your AWS 
+account. An ACL is specific to each bucket. You can utilize S3 Object Ownership, an Amazon S3 
+bucket-level feature, to manage who owns the objects you upload to your bucket and to enable or 
+disable ACLs."
+24,"bucket-level feature, to manage who owns the objects you upload to your bucket and to enable or 
+disable ACLs. 
+3. Bucket policies and Life Cycles 
+Bucket Policies: A document for verifying the access to S3 buckets from within your AWS account, 
+controls which services and users have what kind of access to your S3 bucket. Each bucket has its 
+own Bucket Policies. 
+Lifecycle Rules: This is a cost-saving practice that can move your files to AWS Glacier (The AWS Data 
+Archive Service) or to some other S3 storage class for cheaper storage of old data or completely 
+delete the data after the specified time. To know more about refer this article - Amazon S3 Life Cycle 
+Management 
+4. Keys and Null Objects 
+Keys: The key, in S3, is a unique identifier for an object in a bucket. For example in a bucket 'ABC' 
+your GFG.java file is stored at javaPrograms/GFG.java then 'javaPrograms/GFG.java' is your object key 
+for GFG.java."
+25,"your GFG.java file is stored at javaPrograms/GFG.java then 'javaPrograms/GFG.java' is your object key 
+for GFG.java. 
+Null Object: Version ID for objects in a bucket where versioning is suspended is null. Such objects 
+may be referred to as null objects.List) and Other settings for managing data efficiently. 
+How To Use an Amazon S3 Bucket? 
+You can use the Amazon S3 buckets by following the simple steps which are mentioned below. To 
+know more how to configure about Amazon S3 refer to the Amazon S3 – Creating a S3 Bucket. 
+Step 1: Login into the Amazon account with your credentials and search form S3 and click on the S3. 
+Now click on the option which is ""Create bucket"" and configure all the options which are shown 
+while configuring. 
+Step 2: After configuring the AWS bucket now upload the objects into the buckets based upon your 
+requirement. By using the AWS console or by using AWS CLI following is the command to upload the 
+object into the AWS S3 bucket."
+26,"requirement. By using the AWS console or by using AWS CLI following is the command to upload the 
+object into the AWS S3 bucket. 
+aws s3 cp <local-file-path> s3://<bucket-name>/ 
+Step 3: You can control the permissions of the objects which was uploaded into the S3 buckets and 
+also who can access the bucket. You can make the bucket public or private by default the S3 buckets 
+will be in private mode."
+27,"Step 4: You can manage the S3 bucket lifecycle management by transitioning. Based upon the rules 
+that you defined S3 bucket will be transitioning into different storage classes based on the age of the 
+object which is uploaded into the S3 bucket. 
+Step 5: You need to turn to enable the services to monitor and analyze S3. You need to enable the S3 
+access logging to record who was requesting the objects which are in the S3 buckets. 
+What are the types of S3 Storage Classes? 
+AWS S3 provides multiple storage types that offer different performance and features and different 
+cost structures.  
+• Standard: Suitable for frequently accessed data, that needs to be highly available and 
+durable. 
+• Standard Infrequent Access (Standard IA): This is a cheaper data-storage class and as the 
+name suggests, this class is best suited for storing infrequently accessed data like log files or 
+data archives. Note that there may be a per GB data retrieval fee associated with the 
+Standard IA class."
+28,"data archives. Note that there may be a per GB data retrieval fee associated with the 
+Standard IA class. 
+• Intelligent Tiering: This service class classifies your files automatically into frequently 
+accessed and infrequently accessed and stores the infrequently accessed data in infrequent 
+access storage to save costs. This is useful for unpredictable data access to an S3 bucket. 
+• One Zone Infrequent Access (One Zone IA): All the files on your S3 have their copies stored 
+in a minimum of 3 Availability Zones. One Zone IA stores this data in a single availability zone. 
+It is only recommended to use this storage class for infrequently accessed, non-essential 
+data. There may be a per GB cost for data retrieval. 
+• Reduced Redundancy Storage (RRS): All the other S3 classes ensure the durability of 
+99.999999999%. RRS only ensures 99.99% durability. AWS no longer recommends RRS due to 
+its less durability. However, it can be used to store non-essential data."
+29,"99.999999999%. RRS only ensures 99.99% durability. AWS no longer recommends RRS due to 
+its less durability. However, it can be used to store non-essential data. 
+To know more about , refer this article - Amazon S3 Storage Classes 
+How to Upload and Manage Files on Amazon S3? 
+Firstly you have to Amazon s3 bucket for uploading and managing the files on Amazon S3.  Try to 
+create the S3 Bucket as discussed above. Once the S3 Bucket is created, you can upload the files 
+through various ways such as AWS SDKs, AWS CLI, and Amazon S3 Management Console. Try 
+managing the files by organizing them into folders within the S3 Bucket and applying access controls 
+to secure the access. Features like Versioning and Lifecycle policies provide the management of data 
+efficiently with optimization of storage classes. 
+To know more detailing refer this article - How to Store and Download Obejcts in Amazon S3? 
+How to Access Amazon S3 Bucket?"
+30,"efficiently with optimization of storage classes. 
+To know more detailing refer this article - How to Store and Download Obejcts in Amazon S3? 
+How to Access Amazon S3 Bucket? 
+You can work and access the Amazon S3 bucket by using any one of the following methods 
+1. AWS Management Console 
+2. AWS CLI Commands 
+3. Programming Scripts ( Using boto3 library of Python )"
+31,"1. AWS Management Console 
+You can access the AWS S3 bucket using the AWS management console which is a web-based user 
+interface. Firstly you need to create an AWS account and login to the Web console and from there 
+you can choose the S3 bucket option from Amazon S3 service. ( AWS Console >> Amazon S3 >> S3 
+Buckets ) 
+2. AWS CLI Commands 
+In this methods firstly you have to install the aws cli software in the terminal and try on configuring 
+the aws account with access key, secret key and the default region. Then on taking the `aws --help` 
+, you can figure out the s3 service usage. For example , To view try on running following command: 
+aws s3 ls 
+3. Programming scripts 
+You can configure the Amazon S3 bucket by using a scripting programing languages like Python and 
+with using libraries such as boto3 library you can perform the AWS S3 tasks. To know more about 
+refer this article - How to access Amazon S3 using python script. 
+AWS S3 Bucket Permissions"
+32,"with using libraries such as boto3 library you can perform the AWS S3 tasks. To know more about 
+refer this article - How to access Amazon S3 using python script. 
+AWS S3 Bucket Permissions 
+You can manage the permission of S3 buckets by using several methods following are a few of them. 
+1. Bucket Policies: Bucket policies can be attached directly to the S3 bucket and they are in 
+JSON format which can perform the bucket level operations. With the help of bucket policies, 
+you can grant permissions to the users who can access the objects present in the bucket. If 
+you grant permissions to any user he can download, and upload the objects to the bucket. 
+You can create the bucket policy by using Python. 
+2. Access Control Lists (ACLs): ACLs are legacy access control mechanisms for S3 buckets 
+instead of ACLs we are using the bucket policies to control the permissions of the S3 bucket. 
+By using ACL you can grant the read, and access to the S3 bucket or you can make the objects"
+33,"instead of ACLs we are using the bucket policies to control the permissions of the S3 bucket. 
+By using ACL you can grant the read, and access to the S3 bucket or you can make the objects 
+public based on the requirements. 
+3. IAM Policies: IAM policies are mostly used to manage the permissions to the users and 
+groups and resources available in the AWS by using the IAM roles options. You can attach an 
+IAM policy to an IAM entity (user, group, or role) granting them access to specific S3 buckets 
+and operations. 
+The most effective way to control the permissions to the S3 buckets is by using bucket policies. 
+Features of Amazon S3 
+• Durability: AWS claims Amazon S3 to have a 99.999999999% of durability (11 9's). This 
+means the possibility of losing your data stored on S3 is one in a billion. 
+• Availability: AWS ensures that the up-time of AWS S3 is 99.99% for standard access. 
+o Note that availability is related to being able to access data and durability is related"
+34,"• Availability: AWS ensures that the up-time of AWS S3 is 99.99% for standard access. 
+o Note that availability is related to being able to access data and durability is related 
+to losing data altogether. 
+• Server-Side-Encryption (SSE): AWS S3 supports three types of SSE models: 
+o SSE-S3: AWS S3 manages encryption keys."
+35,"o SSE-C: The customer manages encryption keys. 
+o  SSE-KMS: The AWS Key Management Service (KMS) manages the encryption keys. 
+• File Size support: AWS S3 can hold files of size ranging from 0 bytes to 5 terabytes. A 5TB 
+limit on file size should not be a blocker for most of the applications in the world. 
+• Infinite storage space: Theoretically AWS S3 is supposed to have infinite storage space. This 
+makes S3 infinitely scalable for all kinds of use cases. 
+• Pay as you use: The users are charged according to the S3 storage they hold. 
+Advantages of Amazon S3 
+1. Scalability: Amazon S3 can be scalable horizontally which makes it handle a large amount of 
+data. It can be scaled automatically without human intervention. 
+2. High availability: AmazonS3 bucket is famous for its high availability nature you can access 
+the data whenever you required it from any region. It offers a Service Level Agreement (SLA) 
+guaranteeing 99.9% uptime."
+36,"the data whenever you required it from any region. It offers a Service Level Agreement (SLA) 
+guaranteeing 99.9% uptime. 
+3. Data Lifecycle Management: You can manage the data which is stored in the S3 bucket by 
+automating the transition and expiration of objects based on predefined rules. You can 
+automatically move the data to the Standard-IA or Glacier, after a specified period. 
+4. Integration with Other AWS Services: You can integrate the S3 bucket service with different 
+services in the AWS like you can integrate with the AWS lambda function where the lambda 
+will be triggered based upon the files or objects added to the S3 bucket."
